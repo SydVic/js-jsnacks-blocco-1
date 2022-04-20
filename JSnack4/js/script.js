@@ -1,4 +1,4 @@
-// chiedo un numero di 4 cifre all'utent
+// chiedo un numero di 4 cifre all'utente
 const userNumber = prompt("Ciao!Dimmi un numero di 4 cifre");
 console.log(userNumber, typeof(userNumber));
 
